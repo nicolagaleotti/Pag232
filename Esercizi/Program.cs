@@ -6,7 +6,7 @@ namespace Esercizi
     {
         static void Main(string[] args)
         {
-            //programma
+            //programma per controllare cosa fa
         }
         private static int Mistero1(int x, int y)
         {
